@@ -1,5 +1,6 @@
 # CG_IDP (Coarse-grained model of IDPs)
 
+The code is developed based on the HPS model proposed by Dignon et al. (<a href="https://doi.org/10.1371/journal.pcbi.1005941" target="_blank">DOI</a> and has been modified.
 The code uses a hydropathy scale called M3 for each of the amino acids, which was developed by Tesei et al. in 2021 (<a href="https://doi.org/10.1073/pnas.2111696118" target="_blank">DOI</a>).
 
 To run the code for 33 IDPS (listed in idp_bank.csv), please follow the following procedure:

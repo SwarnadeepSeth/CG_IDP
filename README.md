@@ -7,5 +7,5 @@ To run the code for 33 IDPS (listed in idp_bank.csv), please follow the followin
 3. Finally, to gather the Rg values for different IDPs, run collect_Rg_data.py. This will generate subplots with all the Rg values for different epsilon.
 
 If you have any questions or difficulty running, please contact:
-Swarnadeep Seth: Swarnadeep.Seth@ucf.edu <br>
+Swarnadeep Seth: Swarnadeep.Seth@ucf.edu and <br>
 Aniket Bhattacharya: Aniket.Bhattacharya@ucf.edu

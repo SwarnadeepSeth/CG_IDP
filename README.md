@@ -1,6 +1,6 @@
 # CG_IDP (Coarse-grained model of IDPs)
 
-The code uses a hydropathy scale called M3 for each of the amino acids, which was developed by Tesei et al. in 2021 (<a href="https://doi.org/10.1073/pnas.2111696118" target="_blank">DOI!</a>).
+The code uses a hydropathy scale called M3 for each of the amino acids, which was developed by Tesei et al. in 2021 (<a href="https://doi.org/10.1073/pnas.2111696118" target="_blank">DOI</a>).
 
 To run the code for 33 IDPS (listed in idp_bank.csv), please follow the following procedure:
 1. Run master_IDPs.py, and when prompted, specify the index of the IDP sequence to run. This will create a directory with the name of the IDP.
